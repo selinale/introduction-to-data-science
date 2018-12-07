@@ -1,6 +1,6 @@
 # Relationship between economic and well-being measures and suicide rates in Europe
 
-Group project of course Introduction to Data Science
+Group project of course Introduction to Data Science. Made with Topi Laanti and Olga Viholainen.
 
 [Project report](https://github.com/selinale/introduction-to-data-science/blob/master/Project%20Report.pdf)
 
