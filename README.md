@@ -8,6 +8,6 @@ Group project of course Introduction to Data Science
 
 [Blog post](https://github.com/selinale/introduction-to-data-science/blob/master/Blog%20Post.pdf)
 
-[Code](https://github.com/selinale/introduction-to-data-science/blob/master/Project_code.ipynb) This is not final version.
+[Code](https://github.com/selinale/introduction-to-data-science/blob/master/Project_code.ipynb)
 
 
